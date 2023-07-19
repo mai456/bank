@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>WAR Web sammaty mahesh Service</title>
+	<title>WAR Web sammaty ramesh Service</title>
 	<link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 	<link href="static/style.css" rel="stylesheet" type="text/css">
 </head>
